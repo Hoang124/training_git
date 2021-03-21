@@ -1,3 +1,7 @@
 tạo vui thôi
-thích thì vui một mình đi
-vui đéo gì
+<<<<<<< HEAD
+=======
+thích thì vui một mình đi 
+ok ahihi đồ ngốc
+
+>>>>>>> eb2b86023b8a5193d5edc65e01bd1c95b7485e4a
